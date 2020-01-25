@@ -1,0 +1,16 @@
+﻿<Page x:Class="ParserSbis.Views._HomePage"
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:ParserSbis.Views"
+      xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+      Title="_HomePage" Height="600" Width="700"
+      DataContext="{Binding Main, Source={StaticResource Locator}}">
+
+    <Grid>
+        <TextBox TextWrapping="Wrap" Text="{Binding HelpText}" BorderThickness="0" AcceptsReturn="True"  HorizontalScrollBarVisibility="Disabled" IsReadOnly = "True" VerticalScrollBarVisibility="Auto" Margin="10"/>
+    </Grid>
+
+</Page>

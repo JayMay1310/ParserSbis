@@ -1,0 +1,5 @@
+<ArrayOfActivityItem z:Id="1" z:Type="System.Collections.Generic.List`1[[ParserSbis.Model.ActivityItem, ParserSbis, Version=0.0.0.1, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0" xmlns="http://schemas.datacontract.org/2004/07/ParserSbis.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><_items z:Id="2" z:Size="4"><ActivityItem z:Id="3"><Code1 z:Id="4">400000000</Code1><Code2 z:Id="5">[&#xD;
+  1768&#xD;
+]</Code2><Code3 z:Id="6">[&#xD;
+  null&#xD;
+]</Code3><Code4 z:Id="7">True</Code4><Code5 i:nil="true"/><IdRegion z:Id="8"/><Name z:Id="9">Безопасность, охрана</Name><Value>true</Value></ActivityItem><ActivityItem i:nil="true"/><ActivityItem i:nil="true"/><ActivityItem i:nil="true"/></_items><_size>1</_size><_version>1</_version></ArrayOfActivityItem>

@@ -1,0 +1,237 @@
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\ParserSbis.exe.config
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\ParserSbis.exe
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\ParserSbis.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\KBCsv.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\MahApps.Metro.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\MahApps.Metro.IconPacks.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Newtonsoft.Json.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\System.Windows.Interactivity.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Telerik.Windows.Controls.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Telerik.Windows.Controls.Input.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\KBCsv.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\MahApps.Metro.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\MahApps.Metro.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\MahApps.Metro.IconPacks.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\MahApps.Metro.IconPacks.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Newtonsoft.Json.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Telerik.Windows.Controls.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\Telerik.Windows.Controls.Input.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\de\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\es\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\fr\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\it\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\nl\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Release\tr\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Dialog\DialogOptionView.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Resources\Icons.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Resources\IconsNonShared.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Skins\LoginView.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Skins\ParcerParamView.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_LogPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_SettingsPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Dialog\DialogOptionView.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Dialog\DialogTaskView.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\MainWindow.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Skins\LoginView.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Skins\ParcerParamView.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_FooterPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_HomePage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_LogPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_MenuPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_SearchPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_SettingsPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\App.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis_MarkupCompile.cache
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis_MarkupCompile.lref
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\App.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Dialog\DialogTaskView.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\MainWindow.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_FooterPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_HomePage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_MenuPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\Views\_SearchPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis.g.resources
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis.Properties.Resources.resources
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis.csproj.GenerateResource.Cache
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis.exe.licenses
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis.exe
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Release\ParserSbis.csprojResolveAssemblyReference.cache
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\ParserSbis.exe.config
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.exe
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\ParserSbis.exe
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\ParserSbis.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\KBCsv.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.IconPacks.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Newtonsoft.Json.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\System.Windows.Interactivity.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.GridView.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.Input.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Data.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\KBCsv.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.IconPacks.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.IconPacks.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Newtonsoft.Json.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.GridView.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.Input.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Data.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\de\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\es\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\fr\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\it\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\nl\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\tr\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.csprojResolveAssemblyReference.cache
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogOptionView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Resources\Icons.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Resources\IconsNonShared.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Skins\LoginView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Skins\ParcerParamView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_LogPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogAcvivityView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogOptionView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogRegionView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogTaskView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\MainWindow.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Skins\LoginView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Skins\ParcerParamView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_FooterPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_HomePage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_LogPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_MenuPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_SearchPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_SettingsPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\App.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis_MarkupCompile.cache
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis_MarkupCompile.lref
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\App.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogAcvivityView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogRegionView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogTaskView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\MainWindow.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_FooterPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_HomePage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_MenuPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_SearchPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_SettingsPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.g.resources
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.Properties.Resources.resources
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.csproj.GenerateResource.Cache
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.exe.licenses
+E:\Резерв\backup 01.02.2018\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\ParserSbis.exe.config
+E:\Резерв\backup 01.02.2018\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.exe
+E:\Резерв\backup 01.02.2018\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\ParserSbis.exe.config
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\ParserSbis.exe
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\ParserSbis.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\KBCsv.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.IconPacks.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Newtonsoft.Json.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.GridView.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.Input.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Data.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\KBCsv.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.IconPacks.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\MahApps.Metro.IconPacks.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Newtonsoft.Json.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.GridView.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Controls.Input.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\Telerik.Windows.Data.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Release\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.csprojResolveAssemblyReference.cache
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogOptionView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Resources\Icons.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Resources\IconsNonShared.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Skins\LoginView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Skins\ParcerParamView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_LogPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogAcvivityView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogOptionView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogRegionView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogTaskView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\MainWindow.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Skins\LoginView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Skins\ParcerParamView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_FooterPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_HomePage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_LogPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_MenuPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_SearchPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_SettingsPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\App.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis_MarkupCompile.cache
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis_MarkupCompile.lref
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\App.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogAcvivityView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogRegionView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Dialog\DialogTaskView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\MainWindow.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_FooterPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_HomePage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_MenuPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_SearchPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\Views\_SettingsPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.g.resources
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.Properties.Resources.resources
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.csproj.GenerateResource.cache
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.exe.licenses
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.csproj.CoreCompileInputs.cache
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.csproj.CopyComplete
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.exe
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Release\ParserSbis.pdb

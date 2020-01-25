@@ -1,0 +1,53 @@
+﻿<Page x:Class="ParserSbis.Views._FooterPage"
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ParserSbis.Views"
+      mc:Ignorable="d" 
+      d:DesignWidth="800" Height="26.129"
+      Background="#dedede"
+      Title="_FooterPage"
+      DataContext="{Binding Main, Source={StaticResource Locator}}">
+
+    <DockPanel>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBar.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </ItemsPanelTemplate>
+            </StatusBar.ItemsPanel>
+            <StatusBarItem>
+                <TextBlock Text="Ключ авторизаций:" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Top" Width="138" Height="24"  />
+            </StatusBarItem>
+            <Separator Grid.Column="1" />
+            <StatusBarItem Grid.Column="2" Margin="-2,0,2,0">
+                <TextBlock Text="{Binding Key_api}" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Top" Width="280" Height="24"  />
+            </StatusBarItem>
+            <Separator Grid.Column="3" />
+            <StatusBarItem Grid.Column="4">
+                <Controls:Badged Badge="{Binding CountFilter}">
+                    <!-- Control to wrap goes here -->
+                    <TextBlock Text="Данных в фильтре" Foreground="Black" />
+                </Controls:Badged>
+            </StatusBarItem>
+            <StatusBarItem Grid.Column="6">
+                <Controls:Badged Badge="{Binding CountContragent}">
+                    <!-- Control to wrap goes here -->
+                    <TextBlock Text="Детали контрагентов" Foreground="Black" Width="124" />
+                </Controls:Badged>
+            </StatusBarItem>
+
+        </StatusBar>
+    </DockPanel>
+</Page>

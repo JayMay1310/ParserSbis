@@ -1,0 +1,17 @@
+﻿<Page x:Class="ParserSbis.Views._SearchPage"
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:ParserSbis.Views"
+      xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+      mc:Ignorable="d"
+      Title="_SearchPage"
+      DataContext="{Binding Main, Source={StaticResource Locator}}" Height="500" Width="600">
+    <Grid>
+        <Button Content="Поиск" Command="{Binding StartSearchCommand}" HorizontalAlignment="Left" Margin="515,463,0,10" Width="75"/>
+        <TextBox  Margin="10,10,10,42" TextWrapping="Wrap" Text="{Binding Search}" VerticalScrollBarVisibility="Visible"  AcceptsReturn="True"/>
+        <Label Content="Разделитель ';'" HorizontalAlignment="Left" Margin="10,-21,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>

@@ -1,0 +1,88 @@
+﻿<UserControl
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="ParserSbis.Skins.ParcerParamView"
+        mc:Ignorable="d ignore"
+        DataContext="{Binding Main, Source={StaticResource Locator}}" Height="445.97">
+    <UserControl.Resources>
+        <Style TargetType="TextBox" x:Key="CustomComboTextBoxStyle">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="FontFamily" Value="Calibri" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+        </Style>
+    </UserControl.Resources>
+    <ListBox Background="Transparent" Margin="0,10,0,0">
+        <StackPanel Orientation="Horizontal" >
+            <Label  Content="Регион:" Margin="0,10,0,10" Width="120"/>
+
+            <telerik:RadComboBox x:Name="radComboBox" Width="303" HorizontalAlignment="Left" Margin="15,10,0,10" VerticalAlignment="Top" Validation.ErrorTemplate="{x:Null}"
+					        SelectedItem="{Binding SelectedRegion}"
+					        ItemsSource="{Binding viewRegion}" Foreground="Black" SelectedIndex="2"
+					        DisplayMemberPath="VisibleName" IsEditable="True" TextSearchMode="Contains" IsFilteringEnabled="True" TextBoxStyle="{StaticResource CustomComboTextBoxStyle}">
+            </telerik:RadComboBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" >
+            <Label Content="Город:" HorizontalAlignment="Left" Margin="0,10,0,10" VerticalAlignment="Top" Width="120"/>
+            <telerik:RadComboBox HorizontalAlignment="Left" Margin="15,10,0,10" VerticalAlignment="Top" Width="303"
+					SelectedItem="{Binding SelectedCity, Mode=TwoWay}"
+					ItemsSource="{Binding viewCity}"
+					DisplayMemberPath="Name" IsEditable="True" TextSearchMode="Contains" IsFilteringEnabled="True" TextBoxStyle="{StaticResource CustomComboTextBoxStyle}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Тип контрагнета:" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="120"/>
+            <ComboBox SelectedIndex="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,10,0,10" Width="303" Validation.ErrorTemplate="{x:Null}"
+					SelectedItem="{Binding SelectedTypeKontragent}"
+					ItemsSource="{Binding TypeKontragent}"       />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <ToggleButton Content="По видам деятельности" IsChecked="{Binding SelectedActivityCheckBox}" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="150"/>
+            <ToggleButton Content="По ОКВЭД" IsChecked="{Binding SelectedOKVEDCheckBox}" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="150"/>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Виды деятельности:" Margin="0,10,0,10" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="120"/>
+            <telerik:RadComboBox HorizontalAlignment="Left" Margin="15,10,0,10" VerticalAlignment="Top" Width="303" IsEnabled="{Binding SelectedActivityCheckBox}"
+					SelectedItem="{Binding SelectedActivity, Mode=TwoWay}"
+					ItemsSource="{Binding viewActivity}"                  
+					DisplayMemberPath="Name" IsEditable="True" TextSearchMode="Contains" IsFilteringEnabled="True" TextBoxStyle="{StaticResource CustomComboTextBoxStyle}"/>
+            
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="ОКВЕД:" Margin="0,10,0,10" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="120"/>
+            <telerik:RadComboBox HorizontalAlignment="Left" Margin="15,10,0,10" VerticalAlignment="Top" Width="303" IsEnabled="{Binding SelectedOKVEDCheckBox}"
+					SelectedItem="{Binding SelectedOKVED, Mode=TwoWay}"
+					ItemsSource="{Binding viewOKVED}"
+                    DisplayMemberPath="NameOKVD_KodOKVD" IsEditable="True" TextSearchMode="Contains" IsFilteringEnabled="True" TextBoxStyle="{StaticResource CustomComboTextBoxStyle}"
+					>
+                <telerik:RadComboBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel />
+                    </ItemsPanelTemplate>
+                </telerik:RadComboBox.ItemsPanel>
+            </telerik:RadComboBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Статус:" HorizontalAlignment="Left" Margin="0,10,0,10" VerticalAlignment="Top" Width="120"/>
+            <ComboBox SelectedIndex="0" HorizontalAlignment="Left" Margin="15,10,0,10" VerticalAlignment="Top" Width="303"
+					SelectedItem="{Binding SelectedStatus, Mode=TwoWay}"
+					ItemsSource="{Binding viewStatus}"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Пагинация(20)" HorizontalAlignment="Left" Margin="0,10,0,10" VerticalAlignment="Top" Width="120"/>
+            <Controls:NumericUpDown HorizontalAlignment="Left" Value="{Binding Pagination}" Minimum = "0" Interval = "1" Margin="15,10,0,10" Width="303" Height="28" VerticalAlignment="Top"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Интервал между запросами к Api в сек." HorizontalAlignment="Left" Margin="0,10,0,10" VerticalAlignment="Top" Width="227"/>
+            <Controls:NumericUpDown HorizontalAlignment="Left" Value="{Binding Interval}" Minimum = "0" Interval = "1" Margin="15,10,0,10" Width="303" Height="28" VerticalAlignment="Top"/>
+        </StackPanel>
+    </ListBox>
+</UserControl>

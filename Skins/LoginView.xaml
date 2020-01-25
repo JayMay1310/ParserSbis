@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="ParserSbis.Skins.LoginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        mc:Ignorable="d ignore"
+        DataContext="{Binding Main, Source={StaticResource Locator}}">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="121,10,0,0" TextWrapping="Wrap" Text="{Binding Login}" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="121,51,0,0" TextWrapping="Wrap" Text="{Binding Password}" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Login:" Margin="33,10,0,112" HorizontalAlignment="Left" Width="64"/>
+        <Label Content="Password:" Margin="33,53,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="64"/>
+        <Button Content="Авторизация" Command="{Binding Auth}" HorizontalAlignment="Left" Margin="121,93,0,0" VerticalAlignment="Top" Width="93"/>
+    </Grid>
+</UserControl>

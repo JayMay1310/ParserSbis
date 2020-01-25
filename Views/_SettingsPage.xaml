@@ -1,0 +1,75 @@
+﻿<Page x:Class="ParserSbis.Views._Settings"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        xmlns:local="clr-namespace:ParserSbis.ViewModel"
+        mc:Ignorable="d ignore"
+        DataContext="{Binding Main, Source={StaticResource Locator}}" Width="700">
+    <Page.Resources>
+        <Style TargetType="TextBox" x:Key="CustomComboTextBoxStyle">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="FontFamily" Value="Calibri" />
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+        </Style>
+        
+        <DataTemplate x:Key="MultipleSelectionBoxTemplate">
+            <TextBlock Text="{Binding ElementName=radComboBoxActivity, Path=SelectedItems.Count, StringFormat='Selected Items Count: {0}'}" Foreground="Red" FontWeight="Bold" />
+        </DataTemplate>
+    </Page.Resources>
+    
+    <ListBox Background="Transparent" Margin="10,10,0,0">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button  Content="Выбрать регионы" Command="{Binding AddRegionCommand}" Width="124" Height="20"/>
+        </StackPanel>
+              
+        <StackPanel Orientation="Horizontal" Width="600">
+            <Label Content="Тип контрагнета:" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="120"/>
+            <ComboBox SelectedIndex="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,10,0,10" Width="421" Validation.ErrorTemplate="{x:Null}"
+					SelectedItem="{Binding SelectedTypeKontragent}"
+					ItemsSource="{Binding TypeKontragent}"       />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="600">
+            <ToggleButton Content="По видам деятельности" IsChecked="{Binding SelectedActivityCheckBox}" HorizontalAlignment="Center" Margin="100,10,50,0" VerticalAlignment="Top" Width="150"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Width="600">
+            <Label Content="Виды деятельности:" Margin="0,10,0,10" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="136"/>
+                        
+            <StackPanel Orientation="Horizontal" Width="494">
+                <Button Content="Добавить вид деятельности" Command="{Binding AddActivivityCommand}" Height="26" Width="184"/>
+            </StackPanel>
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="600"/>
+        <StackPanel Orientation="Horizontal" Width="600">
+            <Label Content="Статус:" HorizontalAlignment="Left" Margin="0,10,0,10" VerticalAlignment="Top" Width="120"/>
+            <ComboBox SelectedIndex="0" HorizontalAlignment="Left" Margin="15,10,0,10" VerticalAlignment="Top" Width="421"
+					SelectedItem="{Binding SelectedStatus, Mode=TwoWay}"
+					ItemsSource="{Binding viewStatus}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="600">
+            <Controls:ToggleSwitch Header="Соучередители" Margin="70,0,0,0" IsChecked="{Binding IsOverrideChecked}"/>
+            <Controls:ToggleSwitch Header="Сертификаты" Margin="100,0,0,0" IsChecked="{Binding IsCertificateChecked}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="600">
+            <Label Content="Count Page:" HorizontalAlignment="Left" Margin="0,10,0,10" VerticalAlignment="Top" Width="90"/>
+            <Controls:NumericUpDown HorizontalAlignment="Left" Value="{Binding Pagination}" Minimum = "0" Interval = "1" Margin="15,10,0,10" Width="136" Height="28" VerticalAlignment="Top"/>
+            <Label Content="Interval request Api:" HorizontalAlignment="Left" Margin="0,10,0,10" VerticalAlignment="Top" Width="120"/>
+            <Controls:NumericUpDown HorizontalAlignment="Left" Value="{Binding Interval}" Minimum = "0" Interval = "1" Margin="15,10,0,10" Width="132" Height="28" VerticalAlignment="Top"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="600">
+            <Label Content="Выручка от" HorizontalAlignment="Left" Margin="0,10,0,10" VerticalAlignment="Top"  Foreground="Black" Width="120"/>
+            <Controls:NumericUpDown HorizontalAlignment="Left" IsEnabled="{Binding DiapozonRevenueFilter}" Value="{Binding RevenueMin}" Minimum = "0" Interval = "1" Margin="15,10,0,10" Width="120" Height="30" VerticalAlignment="Top"/>
+            <Label x:Name="label6" Content="до" HorizontalAlignment="Left" Margin="10,10,0,10" VerticalAlignment="Top"/>
+            <Controls:NumericUpDown HorizontalAlignment="Left" IsEnabled="{Binding DiapozonRevenueFilter}" Value="{Binding RevenueMax}" Minimum = "0" Interval = "1" Margin="15,10,0,10" Width="120" Height="30" VerticalAlignment="Top"/>
+            <CheckBox Content="Использовать" IsChecked="{Binding DiapozonRevenueFilter}" HorizontalAlignment="Left" Margin="15,10,0,10" VerticalAlignment="Top" Width="116"/>
+        </StackPanel>
+    </ListBox>
+</Page>

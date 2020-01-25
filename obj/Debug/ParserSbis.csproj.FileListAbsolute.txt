@@ -1,0 +1,529 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\MainWindow.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\MainWindow.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\App.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.lref
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\App.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.g.resources
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.Properties.Resources.resources
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.csproj.GenerateResource.Cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.exe.CodeAnalysisLog.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.exe.lastcodeanalysissucceeded
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\MahApps.Metro.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\MahApps.Metro.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\MahApps.Metro.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\KBCsv.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\KBCsv.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Dialog\DialogOptionView.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Dialog\DialogOptionView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.exe.config
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.exe
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.exe.CodeAnalysisLog.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\ParserSbis.exe.lastcodeanalysissucceeded
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\KBCsv.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\MahApps.Metro.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\KBCsv.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\MahApps.Metro.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\MahApps.Metro.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.csprojResolveAssemblyReference.cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Dialog\DialogOptionView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Dialog\DialogOptionView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\MainWindow.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\App.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.lref
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\App.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\MainWindow.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.g.resources
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.Properties.Resources.resources
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.csproj.GenerateResource.Cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.exe
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Skins\LoginView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Skins\LoginView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Dialog\DialogTaskView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Dialog\DialogTaskView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Skins\ParcerParamView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\Skins\ParcerParamView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis\ParserSbis\obj\Debug\ParserSbis.exe.licenses
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\ParserSbis.exe.config
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis.exe
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\ParserSbis.exe
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\ParserSbis.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\ParserSbis.exe.CodeAnalysisLog.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\ParserSbis.exe.lastcodeanalysissucceeded
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\KBCsv.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\MahApps.Metro.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\KBCsv.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\MahApps.Metro.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\MahApps.Metro.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis.csprojResolveAssemblyReference.cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\Dialog\DialogOptionView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\Skins\LoginView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\Skins\ParcerParamView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\Dialog\DialogOptionView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\Dialog\DialogTaskView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\MainWindow.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\Skins\LoginView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\Skins\ParcerParamView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\App.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.lref
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\App.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\Dialog\DialogTaskView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\MainWindow.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis.g.resources
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis.Properties.Resources.resources
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis.csproj.GenerateResource.Cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis — My\ParserSbis\obj\Debug\ParserSbis.exe.licenses
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\ParserSbis.exe.config
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis.exe
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\ParserSbis.exe
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\ParserSbis.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\ParserSbis.exe.CodeAnalysisLog.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\ParserSbis.exe.lastcodeanalysissucceeded
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\KBCsv.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\MahApps.Metro.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\KBCsv.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\MahApps.Metro.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\MahApps.Metro.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis.csprojResolveAssemblyReference.cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\Dialog\DialogOptionView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\Skins\LoginView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\Skins\ParcerParamView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\Dialog\DialogOptionView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\Dialog\DialogTaskView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\MainWindow.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\Skins\LoginView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\Skins\ParcerParamView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\App.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.lref
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\App.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\Dialog\DialogTaskView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\MainWindow.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis.g.resources
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis.Properties.Resources.resources
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis.csproj.GenerateResource.Cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.3\ParserSbis\obj\Debug\ParserSbis.exe.licenses
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Dialog\DialogOptionView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Resources\Icons.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Skins\LoginView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Skins\ParcerParamView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Dialog\DialogOptionView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Dialog\DialogTaskView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\MainWindow.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Skins\LoginView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Skins\ParcerParamView.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Views\_FooterPage.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Views\_HomePage.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Views\_MenuPage.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\App.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.lref
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\ParserSbis.exe.config
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\ParserSbis.exe
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\ParserSbis.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\ParserSbis.exe.CodeAnalysisLog.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\ParserSbis.exe.lastcodeanalysissucceeded
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\KBCsv.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\MahApps.Metro.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\KBCsv.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\MahApps.Metro.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\MahApps.Metro.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\App.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Dialog\DialogTaskView.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\MainWindow.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Views\_FooterPage.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Views\_HomePage.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Views\_MenuPage.baml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis.g.resources
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis.Properties.Resources.resources
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis.csproj.GenerateResource.Cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis.exe.licenses
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis.exe
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\ParserSbis.csprojResolveAssemblyReference.cache
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Views\_SearchPage.g.cs
+C:\Users\WyomingCPA\Documents\Visual Studio 2015\Projects\ParserSbis1.1.4\ParserSbis\obj\Debug\Views\_SearchPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis.csprojResolveAssemblyReference.cache
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Dialog\DialogOptionView.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Resources\Icons.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Resources\IconsNonShared.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Skins\LoginView.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Skins\ParcerParamView.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_LogPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_SettingsPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Dialog\DialogOptionView.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Dialog\DialogTaskView.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\MainWindow.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Skins\LoginView.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Skins\ParcerParamView.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_FooterPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_HomePage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_LogPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_MenuPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_SearchPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_SettingsPage.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\App.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.cache
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.lref
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\ParserSbis.exe.config
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\ParserSbis.exe
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\ParserSbis.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\ParserSbis.exe.CodeAnalysisLog.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\ParserSbis.exe.lastcodeanalysissucceeded
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\KBCsv.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\MahApps.Metro.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Telerik.Windows.Controls.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\KBCsv.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\MahApps.Metro.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\MahApps.Metro.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Telerik.Windows.Controls.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\App.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Dialog\DialogTaskView.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\MainWindow.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_FooterPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_HomePage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_MenuPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\Views\_SearchPage.baml
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis.g.resources
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis.Properties.Resources.resources
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis.csproj.GenerateResource.Cache
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis.exe.licenses
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis.exe
+D:\Projects\ParserSbis1.1.5\ParserSbis\obj\Debug\ParserSbis.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.csprojResolveAssemblyReference.cache
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogOptionView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Resources\Icons.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Resources\IconsNonShared.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Skins\LoginView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_LogPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogOptionView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogTaskView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\MainWindow.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Skins\LoginView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_FooterPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_HomePage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_LogPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_MenuPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_SearchPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\App.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.cache
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.lref
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.exe.config
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.exe
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.exe.CodeAnalysisLog.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.exe.lastcodeanalysissucceeded
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\KBCsv.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\KBCsv.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Skins\ParcerParamView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_SettingsPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Skins\ParcerParamView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_SettingsPage.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\App.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogTaskView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\MainWindow.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_FooterPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_HomePage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_MenuPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_SearchPage.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.g.resources
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.Properties.Resources.resources
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.csproj.GenerateResource.Cache
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.exe.licenses
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.exe
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.pdb
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogAcvivityView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Data.dll
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.GridView.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Data.xml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogAcvivityView.baml
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogRegionView.g.cs
+D:\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogRegionView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.exe.config
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.exe
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.exe.CodeAnalysisLog.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\ParserSbis.exe.lastcodeanalysissucceeded
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\KBCsv.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\KBCsv.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.csprojResolveAssemblyReference.cache
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogOptionView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Resources\Icons.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Skins\LoginView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Skins\ParcerParamView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_LogPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogAcvivityView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogOptionView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogRegionView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogTaskView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\MainWindow.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Skins\LoginView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Skins\ParcerParamView.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_FooterPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_HomePage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_LogPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_MenuPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_SearchPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_SettingsPage.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\App.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.cache
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis_MarkupCompile.lref
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\App.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogAcvivityView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogRegionView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Dialog\DialogTaskView.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\MainWindow.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_FooterPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_HomePage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_MenuPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_SearchPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\Views\_SettingsPage.baml
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.g.resources
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.Properties.Resources.resources
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.csproj.GenerateResource.cache
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.exe.licenses
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.csproj.CoreCompileInputs.cache
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.csproj.CopyComplete
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.exe
+C:\Users\Notan\Documents\Visual Studio 2017\Projects\ParserSbis1.1.6\ParserSbis\obj\Debug\ParserSbis.pdb

@@ -1,0 +1,54 @@
+﻿<Controls:MetroWindow
+        xmlns:Skins="clr-namespace:ParserSbis.Skins"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ParserSbis.ViewModel"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="ParserSbis.MainWindow"
+        mc:Ignorable="d ignore"
+        Height="600" Width="700"
+        WindowStartupLocation="CenterScreen" 
+        Title="Парсер СБИС v1.1.5 (mod multi region and multi Activities)" Icon="icon.ico"
+        DataContext="{Binding Main, Source={StaticResource Locator}}" ResizeMode="NoResize">
+
+    <Controls:MetroWindow.Flyouts>
+        <Controls:FlyoutsControl>
+            <Controls:Flyout x:Name="loginParams" AnimateOnPositionChange="True" Header="Авторизация" Width="500" >
+                <ListBox Background="Transparent">
+                    <Skins:LoginView Height="Auto" Width="Auto" Margin="0,-1,0,1"/>
+                </ListBox>
+            </Controls:Flyout>
+        </Controls:FlyoutsControl>
+
+    </Controls:MetroWindow.Flyouts>
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <ToggleButton Content="Авторизация" 
+        IsChecked="{Binding ElementName=loginParams, Path=IsOpen}" Cursor="Hand"/>
+        </Controls:WindowCommands>
+
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0">
+            <Frame NavigationUIVisibility="Hidden" Name="_menuFrame" Source="{Binding Model._MenuPage, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" ></Frame>
+        </DockPanel>
+
+        <DockPanel Grid.Row="1">
+            <Frame NavigationUIVisibility="Hidden" Name="_mainFrame" Source="{Binding Model._HomePage,  Mode=TwoWay , UpdateSourceTrigger=PropertyChanged}"></Frame>
+        </DockPanel>
+
+        <DockPanel Grid.Row="2">
+            <Frame NavigationUIVisibility="Hidden" Name="_footerFrame" Source="{Binding Model._FooterPage, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></Frame>
+        </DockPanel>
+
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <TableTask>
+    <id>1</id>
+    <SelectedActivityName>
+    </SelectedActivityName>
+    <RegionName>Санкт-Петербург</RegionName>
+    <SelectedActivityCode1>
+    </SelectedActivityCode1>
+    <SelectedActivityCode2>
+    </SelectedActivityCode2>
+    <SelectedRegionCode1>78</SelectedRegionCode1>
+    <kodeCity>78000009</kodeCity>
+    <SelectedRegionIdRegion>[
+  608
+]</SelectedRegionIdRegion>
+    <SelectedTypeKontragent>ЮрЛицо</SelectedTypeKontragent>
+    <SelectedStatus>В любом статусе</SelectedStatus>
+    <city>Пушкин</city>
+    <idOKVD>
+    </idOKVD>
+    <KodOKVD>
+    </KodOKVD>
+    <NameOKVD>
+    </NameOKVD>
+    <Check_okvd>True</Check_okvd>
+    <pagin>100</pagin>
+    <RevenueMin>60000</RevenueMin>
+    <RevenueMax>2000000</RevenueMax>
+    <RevenueCheck>False</RevenueCheck>
+    <Time>
+    </Time>
+    <Interval>3</Interval>
+    <Completed>No</Completed>
+  </TableTask>
+  <TableTask>
+    <id>2</id>
+    <SelectedActivityName>Безопасность, охрана</SelectedActivityName>
+    <RegionName>Москва</RegionName>
+    <SelectedActivityCode1>400000000</SelectedActivityCode1>
+    <SelectedActivityCode2>[
+  1768
+]</SelectedActivityCode2>
+    <SelectedRegionCode1>77</SelectedRegionCode1>
+    <kodeCity>77</kodeCity>
+    <SelectedRegionIdRegion>[
+  607
+]</SelectedRegionIdRegion>
+    <SelectedTypeKontragent>ЮрЛицо</SelectedTypeKontragent>
+    <SelectedStatus>В любом статусе</SelectedStatus>
+    <city>Москва</city>
+    <idOKVD>
+    </idOKVD>
+    <KodOKVD>
+    </KodOKVD>
+    <NameOKVD>
+    </NameOKVD>
+    <Check_okvd>False</Check_okvd>
+    <pagin>100</pagin>
+    <RevenueMin>60000</RevenueMin>
+    <RevenueMax>2000000</RevenueMax>
+    <RevenueCheck>False</RevenueCheck>
+    <Time>
+    </Time>
+    <Interval>3</Interval>
+    <Completed>No</Completed>
+  </TableTask>
+</Table>

@@ -1,0 +1,9 @@
+<ArrayOfActivityItem z:Id="1" z:Type="System.Collections.Generic.List`1[[ParserSbis.Model.ActivityItem, ParserSbis, Version=0.0.0.1, Culture=neutral, PublicKeyToken=null]]" z:Assembly="0" xmlns="http://schemas.datacontract.org/2004/07/ParserSbis.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><_items z:Id="2" z:Size="4"><ActivityItem z:Id="3"><Code1 z:Id="4">609000000</Code1><Code2 z:Id="5">[&#xD;
+  1958&#xD;
+]</Code2><Code3 z:Id="6">[&#xD;
+  1944&#xD;
+]</Code3><Code4 z:Id="7">True</Code4><Code5 i:nil="true"/><IdRegion z:Id="8"/><Name z:Id="9">Строительство, ремонт и обслуживание трубопроводов, сетей водоснабжения, канализации и отопления </Name><Value>true</Value></ActivityItem><ActivityItem z:Id="10"><Code1 z:Id="11">1005000000</Code1><Code2 z:Id="12">[&#xD;
+  1978&#xD;
+]</Code2><Code3 z:Id="13">[&#xD;
+  1793&#xD;
+]</Code3><Code4 z:Ref="7" i:nil="true"/><Code5 i:nil="true"/><IdRegion z:Ref="8" i:nil="true"/><Name z:Id="14">Клининговые услуги</Name><Value>true</Value></ActivityItem><ActivityItem i:nil="true"/><ActivityItem i:nil="true"/></_items><_size>2</_size><_version>2</_version></ArrayOfActivityItem>
